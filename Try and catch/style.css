@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #f4f4f4;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    width: 300px;
+    margin: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input {
+    padding: 8px;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 8px 15px;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 15px;
+    font-weight: bold;
+}
